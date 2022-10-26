@@ -14,6 +14,12 @@ namespace SearchAlgorithmm
         int n;
         //Get the number of elements to store in the array
         int i;
+
+        public void input()
+        { 
+            while (true)
+
+
         {
         }
     }
